@@ -53,3 +53,7 @@ Points that are easier to isolate are more likely to be anomalies.
 - Pandas
 - Scikit-learn
 - Matplotlib
+
+## Sample Output
+
+![Anomaly Detection Output](output/power_anomalies.png)
